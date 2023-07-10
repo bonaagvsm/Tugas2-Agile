@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:panjiartamasinaga/kelompok/signin.dart';
+import 'package:flutter_application_2/pertemuan12/signin.dart';
 
 class Register extends StatefulWidget {
   const Register({super.key});
